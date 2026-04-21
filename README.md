@@ -2,9 +2,7 @@
 
 This repository contains an end-to-end computer vision pipeline for motion deblurring of license plate images.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/code/License_Plate_Deblurring.ipynb)
-
-After creating your GitHub repository, replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` in the badge URL above.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cleora88/LINA-CV-PROJECT-/blob/main/code/License_Plate_Deblurring.ipynb)
 
 ## Repository Structure
 
